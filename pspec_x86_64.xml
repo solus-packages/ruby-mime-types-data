@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-mime-types-data</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,37 +19,37 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/Code-of-Conduct.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/Contributing.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/History.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/Licence.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/Manifest.txt</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data/mime-types.json</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data/mime.content_type.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data/mime.docs.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data/mime.encoding.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data/mime.flags.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data/mime.friendly.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data/mime.pext.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data/mime.use_instead.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data/mime.xrefs.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/lib/mime-types-data.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/lib/mime/types/data.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/mime-types-data-3.2016.0521.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/Code-of-Conduct.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/Contributing.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/History.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/Licence.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/Manifest.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime-types.json</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.content_type.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.docs.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.encoding.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.flags.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.friendly.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.pext.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.use_instead.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.xrefs.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/lib/mime-types-data.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/lib/mime/types/data.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/mime-types-data-3.2016.0521.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-03-23</Date>
+        <Update release="2">
+            <Date>2018-12-26</Date>
             <Version>3.2016.0521</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>
