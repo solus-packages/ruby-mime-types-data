@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-mime-types-data</Name>
         <Packager>
-            <Name>F. von Gellhorn</Name>
-            <Email>flinux@vongellhorn.ch</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,37 +19,47 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/Code-of-Conduct.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/Contributing.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/History.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/Licence.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/Manifest.txt</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime-types.json</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.content_type.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.docs.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.encoding.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.flags.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.friendly.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.pext.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.use_instead.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/data/mime.xrefs.column</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/lib/mime-types-data.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/mime-types-data-3.2016.0521/lib/mime/types/data.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/mime-types-data-3.2016.0521.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/Code-of-Conduct.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/Contributing.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/History.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/Licence.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/Manifest.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/data/mime-types.json</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/data/mime.content_type.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/data/mime.docs.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/data/mime.encoding.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/data/mime.flags.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/data/mime.friendly.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/data/mime.pext.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/data/mime.use_instead.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/data/mime.xrefs.column</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/lib/mime-types-data.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/lib/mime/types/data.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/application.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/audio.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/chemical.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/conference.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/drawing.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/font.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/image.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/message.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/model.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/multipart.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/text.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/video.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/mime-types-data-3.2020.0512/types/world.yaml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/specifications/mime-types-data-3.2020.0512.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2019-10-07</Date>
-            <Version>3.2016.0521</Version>
+        <Update release="4">
+            <Date>2020-06-26</Date>
+            <Version>3.2020.0512</Version>
             <Comment>Packaging update</Comment>
-            <Name>F. von Gellhorn</Name>
-            <Email>flinux@vongellhorn.ch</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Update>
     </History>
 </PISI>
